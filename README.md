@@ -1,5 +1,5 @@
 # The Horse ECommerce Website
-![The Horse](/frontend/src/images/the-horse.png)
+![The Horse](/frontend/public/images/the-horse.png)
 
 ## Demo Website
 
